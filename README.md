@@ -15,27 +15,27 @@ If you are not familiar with the different technologies used in this project, pl
 - [tRPC](https://trpc.io)
 
 ## .env.example
-
 DATABASE_URL="mongodb+srv://<user>:<password>f@cluster0.<name-cluster>.mongodb.net/airbnb?retryWrites=true&w=majority"
-s
 NEXTAUTH_URL="http://localhost:3000"
 NEXT_PUBLIC_API_URL="http://localhost:3000"
-
-# Next Auth Discord Provider
-
 DISCORD_CLIENT_ID=""
 DISCORD_CLIENT_SECRET=""
-
-# Next Auth Github Provider
-
 GITHUB_CLIENT_ID=" "
 GITHUB_CLIENT_SECRET=" "
-
 NEXT_PUBLIC_UPLOAD_PRESET=" "
 NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME=" "
 NEXT_PUBLIC_CLOUDINARY_API_KEY=" "
 CLOUDINARY_API_SECRET=" "
-
 NEXTAUTH_SECRET=" "
-
 NODE_ENV="development"
+![1](https://github.com/nikitenko1/trpc-base-mongo_airbnb/assets/20661870/f60f576c-e265-4ff2-8634-ec872380cfd2)
+
+![2](https://github.com/nikitenko1/trpc-base-mongo_airbnb/assets/20661870/15afa612-78fd-46f7-900c-fc7c76358f48)
+
+![3](https://github.com/nikitenko1/trpc-base-mongo_airbnb/assets/20661870/1b394212-4da4-4abb-9954-69e9324a8f0d)
+
+![4](https://github.com/nikitenko1/trpc-base-mongo_airbnb/assets/20661870/129c7b77-10c7-45c2-8c62-334937cabeea)
+
+![5](https://github.com/nikitenko1/trpc-base-mongo_airbnb/assets/20661870/dc178b6b-6023-40b6-9e31-1d90dfbb62ef)
+
+![6](https://github.com/nikitenko1/trpc-base-mongo_airbnb/assets/20661870/35ecaf79-515c-4160-99d9-78825f94b922)
